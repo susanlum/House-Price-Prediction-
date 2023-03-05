@@ -1,5 +1,5 @@
 # House-Price-Prediction-
-# Predicting Home Prices in Bangalore, India
+## Predicting Home Prices in Bangalore, India
 
 ## **About the dataset**
 Dataset link: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?select=Bengaluru_House_Data.csv
@@ -23,3 +23,8 @@ Note: (a) 3 BHK means a unit has three bedrooms, a hall and a kitchen; (b) 1RK i
 **balcony**: number of balcony (ie. 0 to 3)
 
 **price**: price of property in Lakh Indian Rupees
+
+## Tools Used
+Python 3.8.10
+
+Packages: pandas, numpy, matplotlib, seaborn, sklearn
