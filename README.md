@@ -1,5 +1,4 @@
-# House-Price-Prediction-
-## Predicting Home Prices in Bangalore, India
+# Predicting Home Prices in Bangalore, India
 
 ## **About the dataset**
 Dataset link: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?select=Bengaluru_House_Data.csv
